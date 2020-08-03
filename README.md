@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Flutter, Django, C++**
 
-- 📫 How to reach me **varunmamtora@gmail.com**
+- 📫 Mail me **varunmamtora@gmail.com**
 
 - ⚡ Fun fact **I love cars**
 
