@@ -19,3 +19,5 @@
 <a href="https://linkedin.com/in/varun-mamtora-0b725b171" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="varun-mamtora-0b725b171" height="20" width="20" /></a>
 <a href="https://instagram.com/wherearethekiwis_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="wherearethekiwis_" height="20" width="20" /></a>
 </p>
+
+[Varun's github stats](https://github-readme-stats.vercel.app/api?username=varunmamtora06&show_icons=true&line_height=30)
