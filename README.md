@@ -10,7 +10,7 @@
 
 - 📫 Mail me **varunmamtora@gmail.com**
 
-- ⚡ Fun fact **I love cars**
+- ⚡ Fun fact **There are 10 types of people in this world, those who understand binary and those who don't.**
 
 <!--
 <p align="left"> <img src="https://i.ibb.co/njCjt8W/cpp.png" alt="cplusplus" width="20" height="20"/> <img src="https://i.ibb.co/FWrLT5n/flutter.png" alt="flutter" width="20" height="20"/> <img src="https://i.ibb.co/Qvgdvj0/dart.jpg" alt="dart" width="20" height="20"/><img src="https://i.ibb.co/KN3GBgC/python.png" alt="python" width="20" height="20"/><img src="https://i.ibb.co/phL60CH/django.jpg" alt="django" width="30" height="20"/><img src="https://i.ibb.co/rcyPytC/HTML5.png" alt="html" width="20" height="20"/><img src="https://i.ibb.co/jgk0ZRH/css.jpg" alt="css" width="30" height="20"/></p>
