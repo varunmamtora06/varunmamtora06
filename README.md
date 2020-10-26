@@ -6,8 +6,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/varunmamtora06?tab=repositories](https://github.com/varunmamtora06?tab=repositories)
 
-- 💬 Ask me about **Flutter, Django, C++**
-
 - 📫 Mail me **varunmamtora@gmail.com**
 
 - ⚡ Fun fact **There are 10 types of people in this world, those who understand binary and those who don't.**
