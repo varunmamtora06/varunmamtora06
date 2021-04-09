@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varun Mamtora</h1>
 <h3 align="center">A programmer from India</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=varunmamtora06" alt="varunmamtora06" /> </p>
+<!--
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=varunmamtora06" alt="varunmamtora06" /> </p> -->
 
 - 🌱 I’m currently learning **Flutter, Dart, Django**
 
